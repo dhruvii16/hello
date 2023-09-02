@@ -9,3 +9,10 @@ def scope():
     x=300
     print(x)
 scope()
+
+#globalscope
+x=300
+def func():
+    print(x)
+func()
+print(x)
