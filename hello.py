@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-print("Hello World!!!")
-=======
-print("Hello world!,connection")
->>>>>>> bd72189bee10dcac3065f1d97b003a583dfa56a4
+print("Hello world!,connection!!")
 def myfunc(n):
     return lambda a : a*n
 mydoubler = myfunc(2)
